@@ -1,0 +1,5 @@
+train: /Users/mithunravi/Custom_Dataset/train/images
+val: /Users/mithunravi/Custom_Dataset/val/images
+
+nc: 2  # Number of classes
+names: ['building', 'worker']  # Replace with your actual class names
